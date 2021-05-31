@@ -45,12 +45,3 @@ div>.row{
     -webkit-transform: translateX(-3px);
     transform: translateX(-3px);
 }
-
-
-
-/* @media screen and(max-width: 495px){
-    card-item{
-        display: grid;
-        grid-template-columns: 100px 100px;
-    }
-} */
