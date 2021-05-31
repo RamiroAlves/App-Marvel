@@ -1,7 +1,7 @@
 const timeStamp = '1565045589';
 const chaveAPI = '74a69b58467782083d8e4236e3a22a88';
 const md5 = '6933033dfa8729564bde3ef362996bfb';
-const url = `https://gateway.marvel.com:443/v1/public/characters?ts=${timeStamp}&apikey=${chaveAPI}&hash=${md5}&limit=6`;
+const url = `https://gateway.marvel.com:443/v1/public/characters?ts=${timeStamp}&apikey=${chaveAPI}&hash=${md5}&limit=4`;
 const options = {
     method: 'GET',
     mode: 'cors',
